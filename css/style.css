@@ -1,0 +1,53 @@
+/* Universals */
+.black {
+  background-color: #000;
+}
+
+.sm-gap {
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.sm-margin {
+  margin-top: 25px;
+}
+
+.lg-margin {
+  margin-top: 50px;
+}
+
+.container {
+  padding: 25px 0px;
+}
+
+/* First Row */
+.logo {
+  height: 100px;
+}
+
+.nav {
+  height: 25px;
+}
+
+/* Second Row */
+
+.hero {
+  height: 300px;
+}
+
+/* Third Row */
+
+.heading {
+  height: 25px;
+
+}
+
+/* Fourth */
+
+.content-left {
+  height: 200px;
+}
+
+.content-right {
+  height: 200px;
+}
